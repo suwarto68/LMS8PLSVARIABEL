@@ -1,0 +1,6 @@
+{
+  "name": "LMS & CBT Ujian Formatif PLSV & PtLSV - SMPN 1 Wanaraya",
+  "description": "Aplikasi LMS dan Ujian Online CBT ANBK Matematika Kelas 8 Fase D Materi Persamaan dan Pertidaksamaan Linier Satu Variabel SMP Negeri 1 Wanaraya TP 2026/2027 terintegrasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
